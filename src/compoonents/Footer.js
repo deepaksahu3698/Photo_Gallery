@@ -11,7 +11,7 @@ const Footer = () => {
                         
                         <h5 style={{paddingLeft:"410px"}}>
                             
-                            copyright &copy; 2022 Sagar & team.
+                 
                         
                         </h5>
                     </Navbar.Brand>
